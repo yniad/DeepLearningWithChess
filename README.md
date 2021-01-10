@@ -1,2 +1,2 @@
-# DeepLearningWithGo
-This is a repository that tries to implement the same that AlphaZero does. It's important to say that I am not relationated to DeepMind or another big team, I am just a student.
+# DeepLearningWithChess
+This is a repository tha contains the experiments made for exploring machine learning techniques for a Chess Agent that learn using Deel Learning.
